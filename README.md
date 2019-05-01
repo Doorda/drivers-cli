@@ -2,7 +2,7 @@
 
 Latest JDBC Drivers [here](https://github.com/Doorda/drivers-cli/releases/download/309d/DoordaHostJDBC_309d.jar)
 
-Latest DoordaHostCLI [here](https://github.com/Doorda/drivers-cli/releases/download/309d/doordahost)
+Latest DoordaHostCLI [here](https://github.com/Doorda/drivers-cli/releases/download/309d/doordahost.jar)
 
 
 For usage, head to [https://github.com/Doorda/Getting-Started](https://github.com/Doorda/Getting-Started)
